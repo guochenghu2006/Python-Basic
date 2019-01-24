@@ -14,3 +14,6 @@ Python基础入门课程，使用Python3.6自带的IDLE编程
 - `codes`：课程代码，文件名带exercise表示课堂练习，不带表示课后习题；
 - `python-3.6.2-amd64.exe`：Windows下Python3.6安装文件；
 - `python-3.6.2-macosx10.6.pkg`：Mac下Python3.6安装文件。
+
+## 文件来源
+张宏伦：[https://github.com/Honlan/Python-Basic](https://github.com/Honlan/Python-Basic)
